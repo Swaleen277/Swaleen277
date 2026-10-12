@@ -50,6 +50,8 @@ Project 1 - https://github.com/Swaleen277/ADE-AdventureWorks-Project
 
 Project 2 - https://github.com/Swaleen277/ADE-NYC-Taxi-Project
 
+Project 3 - https://github.com/Swaleen277/caresync-azure-project
+
 ---
 
 ## 🌱 Goal
